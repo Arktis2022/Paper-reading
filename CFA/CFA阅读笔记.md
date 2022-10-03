@@ -27,7 +27,7 @@
 
    1. 示意图：
 
-      <img src="C:\Users\12559\AppData\Roaming\Typora\typora-user-images\image-20220930152733310.png" alt="image-20220930152733310" style="zoom: 80%;" />
+      ![image.png](http://tva1.sinaimg.cn/large/007QnVXJly1h6s3r07aw2j30r50a2n2t.jpg)
 
    2. 解释上图：
 
@@ -41,9 +41,9 @@
 
       > + 损失函数：
       >
-      >   <img src="C:\Users\12559\AppData\Roaming\Typora\typora-user-images\image-20221003143543442.png" alt="image-20221003143543442" style="zoom:80%;" />
+      >   ![image.png](http://tva1.sinaimg.cn/large/007QnVXJly1h6s3rbik7oj30dw01zgln.jpg)
       >
-      >   <img src="C:\Users\12559\AppData\Roaming\Typora\typora-user-images\image-20221003143557274.png" alt="image-20221003143557274" style="zoom:80%;" />
+      >   ![image.png](http://tva1.sinaimg.cn/large/007QnVXJly1h6s3rjiryqj30eg01tq2z.jpg)
       >
       >   有两个损失函数，用于将CFA处理之后的pt向ct聚拢，并原理周边的其他ct，因此构建了两个损失函数；第二个损失函数代表对比学习1
 
