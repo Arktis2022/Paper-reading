@@ -42,7 +42,7 @@
      >
      >    <img src="http://tva1.sinaimg.cn/large/007QnVXJly1h6s5i9xjq4j30de04gq3h.jpg" alt="image.png" style="zoom:80%;" />
      >
-     >    <img src="C:\Users\12559\AppData\Roaming\Typora\typora-user-images\image-20221003155518328.png" alt="image-20221003155518328" style="zoom:80%;" />
+     >    <img src="http://tva1.sinaimg.cn/large/007QnVXJly1h6s6wyzh9ej30sj04vgq2.jpg" alt="image.png" style="zoom:80%;" />
      >
      >    计算两个P()的方法，使用贝叶斯公式，其中P(w1)和P(w2)是先验知识，两个类别出现的概率，例如已知类别1出现的概率的0.8而类别2出现的概率是0.2，那么P(w1)和P(w2)分别是0.8和0.2。其他的P(x|w1)等解释可见上图，其中需要注意的是P(x|w1)和P(x|w2)直接套前面的高斯概率密度公式即可，表示类别1/2中出现x这种参数的概率是多少。
      >
